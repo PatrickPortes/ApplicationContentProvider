@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Patrick/AndroidStudioProjects/ApplicationContentProvider/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/Users/Patrick/AndroidStudioProjects/ApplicationContentProvider/app/src/main/res/drawable/ic_fab_add.xml" value="0.157" />
+        <entry key="..\:/Users/Patrick/AndroidStudioProjects/ApplicationContentProvider/app/src/main/res/drawable/ic_fab_add_foreground.xml" value="0.157" />
+        <entry key="..\:/Users/Patrick/AndroidStudioProjects/ApplicationContentProvider/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Patrick/AndroidStudioProjects/ApplicationContentProvider/app/src/main/res/layout/note_item.xml" value="0.225" />
       </map>
     </option>
   </component>
